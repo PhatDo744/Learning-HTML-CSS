@@ -1,0 +1,80 @@
+*{
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+html{
+    font-size: 62.5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#wrapper{
+    background-color: #f3e9ff;
+    padding: 40px 60px
+}
+.header-title{
+    color: #582fc2;
+    text-align: center;
+    font-size: 2rem;
+}
+.header-logo{
+    text-align: center;
+}
+.header-logo img{
+    width: 40%;
+}
+.main-content{
+    background-color: #774ad8;
+    padding: 40px 30px;
+    border-radius: 7px;
+    box-sizing: border-box;
+}
+h3{
+    color:#f4eafd;
+    font-size: 1.6rem;
+}
+p{
+    color:#edd3fb;
+    font-size: 1.3rem;
+}
+.p{
+    color: #efd258;
+    border-left: 4px solid;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+.main-download{
+    text-align: center;
+    padding-top: 15px;
+    box-sizing: border-box;
+}
+.main-download a{
+    position: relative;
+    top: 10px;
+    text-decoration: none;
+    font-size: 1.3rem;
+    box-sizing: border-box;
+}
+#footer{
+    text-align: center;
+    position: relative;
+    top: 30px;
+    box-sizing: border-box;
+}
+#footer p{
+    color: #774ad8;
+}
+#main{
+    padding-top: 30px;
+    box-sizing: border-box;
+}
+mark{
+    background-color: #fbedad;
+    border-radius: 4px;
+    color: #523279;
+}
+.main-download mark{
+    background-color: #f9c927;
+    padding: 10px 12px;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
